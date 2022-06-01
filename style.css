@@ -1,0 +1,101 @@
+.rec1
+{ 
+    position: absolute;   
+    width: 930px;   
+    height: 194px;   
+    left: 255px;   
+    top: 85px;
+  background: #799BCE; 
+} 
+ .rec2 
+{ 
+  position: absolute;   
+  width: 750px;   
+  height: 397px;   
+  left: 255px;   
+  top: 291px; 
+  background: #FDF3D1; 
+} 
+ .rec3 
+{ 
+  position: absolute;   
+  width: 930px;   
+  height: 194px;   
+  left: 255px;   
+  top: 710px; 
+  background: #2A3C5F; 
+} 
+ .rec4 
+{ 
+  position: absolute;   
+  width: 166px;   
+  height: 397px;   
+  left: 1019px;   
+  top: 291px; 
+  background: #FAD1A1;
+} 
+ .p1 
+{ 
+  position: absolute;   
+  width: 268px;   
+  height: 109px;   
+  left: 319px;   
+  top: 85px; 
+  font-style: normal;   
+  font-weight: 400;   
+  font-size: 64px;  
+  line-height: 77px; 
+  color: #000000; 
+} 
+ .p2 
+{ 
+  position: absolute;   
+  width: 310px;   
+  height: 92px;   
+  left: 541px;   
+  top: 360px; 
+  font-style: normal;   
+  font-weight: 400;   
+  font-size: 32px;   
+  line-height: 39px; 
+  color: #000000; 
+} 
+ .p3
+{ 
+  position: absolute; 
+  width: 231px;   
+  height: 140px;   
+  left: 541px;   
+  top: 375px; 
+  font-style: normal;   
+  font-weight: 400;   
+  font-size: 105px;   
+  line-height: 127px; 
+  color: #D2C78A; 
+} 
+ .p4
+{ 
+  position: absolute;   
+  width: 128px;   
+  height: 67px;   
+  left: 1043px;   
+  top: 365px; 
+  font-style: normal;   
+  font-weight: 400;  
+  font-size: 32px;   
+  line-height: 39px; 
+  color: #000000; 
+} 
+.p5 
+{ 
+  position: absolute;   
+  width: 241px;   
+  height: 74px;   
+  left: 319px;   
+  top: 725px; 
+  font-style: normal;   
+  font-weight: 400;   
+  font-size: 64px;   
+  line-height: 77px; 
+  color: #FFFFFF; 
+} 
